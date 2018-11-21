@@ -17,6 +17,10 @@ gem 'uglifier', '>= 1.3.0'
 gem 'webpacker'
 # See https://github.com/rails/execjs#readme for more supported runtimes
 # gem 'mini_racer', platforms: :ruby
+# Flexible authentication solution for Rails with Warden.
+gem 'devise', '~> 4.5.0'
+# Progressive Web Apps for Rails
+gem 'pwa', '~> 4.0.5'
 
 # Use CoffeeScript for .coffee assets and views
 gem 'coffee-rails', '~> 4.2'
